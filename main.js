@@ -58,7 +58,7 @@
 // console.log(students)
 
 //----------------------------------
-//set 
+//set
 
 // const set1 = new Set()
 
@@ -81,7 +81,7 @@
 //         this.branch= branch
 //     }
 // }
- 
+
 // const s1 = new Students('Joshua', 'Swaroop', 'Mech')
 // const s2 = new Students('Josh', 'M', 'CS')
 // const s3 = new Students('Mike', 'S', 'Civil')
@@ -163,7 +163,6 @@
 // let text = "Hello world, how are you all."
 //  text.startsWith("Hello")
 
-
 //--------------------------------------
 //String.endssWith
 // let text = "Hello world, how are you all."
@@ -231,7 +230,6 @@
 // const fruits = ["Mango", "Apple", "Pineapple", "Lemon"]
 // const f = fruits.entries()
 
-
 // for (const x of f) {
 //     console.log(x
 //         )
@@ -252,3 +250,6 @@
 // console.log(`Welcome!
 // My name is ${name}
 // I am a ${role}`)
+
+let name = "joshua";
+console.log(name);
